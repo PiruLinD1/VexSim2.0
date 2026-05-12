@@ -196,7 +196,7 @@ DRIVETRAIN_MOTOR_COUNT = 6
 DRIVE_WHEEL_DEFAULT_DIAMETER_IN = 4.0
 
 # Distance between left and right wheel centerlines.
-DRIVE_TRACK_WIDTH_IN = 10.4
+DRIVE_TRACK_WIDTH_IN = 10.5
 
 # Motor / gearbox / wheel efficiency lumped together.
 DRIVE_MOTOR_EFFICIENCY = 0.82
