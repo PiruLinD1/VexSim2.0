@@ -307,7 +307,7 @@ def switch_mass_unit(draft, new_unit):
     values["mass"] = _fmt(kg_to_display(current_kg, new_unit))
     draft["mass_unit"] = new_unit
 
-
+##prova2
 def _fmt(value, decimals=2):
     text = f"{float(value):.{decimals}f}"
     if "." in text:
